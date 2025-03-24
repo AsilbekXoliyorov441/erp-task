@@ -8,6 +8,10 @@
 
 /*Headrrs*/
 
+.dark-mode{
+  background-color: rgb(24, 24, 59);
+}
+
 header{
   background-color: black;
   height: 60px;

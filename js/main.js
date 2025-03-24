@@ -73,6 +73,14 @@ const quantity = document.createElement("span");
 
 const searchInput = document.getElementById("search-input");
 
+const ligthBtn = document.querySelector(".light");
+
+function myFunction() {
+  const element = document.body;
+  element.classList.toggle("dark-mode");
+}
+
+
 quantity.innerText = products.length;
 
 AllProducts.appendChild(quantity);
