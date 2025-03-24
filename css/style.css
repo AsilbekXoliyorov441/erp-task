@@ -1,0 +1,126 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+
+/*Headrrs*/
+
+header{
+  background-color: black;
+  height: 60px;
+  display: flex;
+    position: fixed;
+  top: 0;
+  width: 100%;
+
+}
+
+.navbar{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ position: relative;
+}
+
+.navbar a{
+  color: orangered;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.navbar .search{
+  max-width: 400px;
+  height: 30px;
+  width: 100%;
+}
+
+.navbar .search input{
+  width: 100%;
+  height: 100%;
+  padding: 0 10px;
+  border-radius: 4px;
+}
+
+.search-content{
+  position: absolute;
+  top: 50px;
+  background-color: #fff;
+  box-shadow: 1px 2px 5px black;
+  padding: 20px;
+    max-width: 400px;
+
+  width: 100%;
+}
+
+.search-card{
+  border: 1px solid gray;
+  padding: 10px;
+  display: flex;
+  gap: 20px;
+}
+
+.search-content img{
+  width: 50px;
+  height: 50px;
+}
+
+.search-nav-info{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+#products{
+  padding-top: 110px;
+}
+
+.card-lists {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.card img {
+  border-radius: 12px;
+  height: 200px;
+  max-width: 300px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.card {
+  max-width: 320px;
+  width: 100%;
+  padding: 20px;
+  background-color: rgba(128, 128, 128, 0.369);
+
+  border-radius: 12px;
+
+}
+
+.card-infos {
+  margin-top: 30px;
+}
+
+.card-infos .title {
+  margin-bottom: 10px;
+  color: orange;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+.container{
+  max-width: 1200px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px;
+}
