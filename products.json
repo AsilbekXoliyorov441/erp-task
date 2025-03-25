@@ -1,0 +1,84 @@
+{
+  "products":[
+  {
+    "name": "Apple 1",
+    "id": 1,
+    "price": 120,
+    "category": "iPhone",
+    "description": "Apple 1 is a better phone with fast performance",
+    "src": "https://picsum.photos/200/300"
+  },
+  {
+    "name": "Apple 2",
+    "id": 2,
+    "price": 220,
+    "category": "iPhone",
+    "description": "Apple 2 is a better phone with fast performance",
+    "src": "https://picsum.photos/200/300"
+  },
+  {
+    "name": "Apple 3",
+    "id": 3,
+    "price": 250,
+    "category": "iPhone",
+    "description": "Apple 3 is a premium phone with excellent camera features",
+    "src": "https://picsum.photos/200/300"
+  },
+  {
+    "name": "Apple 4",
+    "id": 4,
+    "price": 300,
+    "category": "iPhone",
+    "description": "Apple 4 comes with the latest A15 chip for ultra-fast performance",
+    "src": "https://picsum.photos/200/300"
+  },
+  {
+    "name": "Apple 5",
+    "id": 5,
+    "price": 350,
+    "category": "iPhone",
+    "description": "Apple 5 offers a stunning OLED display and great battery life",
+    "src": "https://picsum.photos/200/300"
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "id": 6,
+    "price": 950,
+    "category": "Samsung",
+    "description": "Samsung Galaxy S21 has an amazing camera and screen",
+    "src": "https://picsum.photos/200/300"
+  },
+  {
+    "name": "Samsung Galaxy Note 20",
+    "id": 7,
+    "price": 1100,
+    "category": "Samsung",
+    "description": "Samsung Galaxy Note 20 is perfect for productivity with the S-Pen",
+    "src": "https://picsum.photos/200/300"
+  },
+  {
+    "name": "Google Pixel 6",
+    "id": 8,
+    "price": 650,
+    "category": "Google",
+    "description": "Google Pixel 6 brings the best of Google software and AI features",
+    "src": "https://picsum.photos/200/300"
+  },
+  {
+    "name": "OnePlus 9 Pro",
+    "id": 9,
+    "price": 1060,
+    "category": "OnePlus",
+    "description": "OnePlus 9 Pro offers a smooth 120Hz display and fast charging",
+    "src": "https://picsum.photos/200/300"
+  },
+  {
+    "name": "Xiaomi Mi 11",
+    "id": 10,
+    "price": 750,
+    "category": "Xiaomi",
+    "description": "Xiaomi Mi 11 offers premium performance at a competitive price",
+    "src": "https://picsum.photos/200/300"
+  }
+]
+}
